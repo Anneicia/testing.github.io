@@ -1,0 +1,31 @@
+/* CSS style sheet with purple and yellow colors */
+
+/* Body background color */
+body {
+    background-color: purple;
+    color: yellow; /* Text color */
+}
+
+/* Heading color */
+h1, h2, h3 {
+    color: yellow;
+}
+
+/* Example of styling specific elements */
+/* Paragraph color */
+p {
+    color: yellow;
+}
+
+/* Links color */
+a {
+    color: yellow;
+}
+
+/* Example of using purple for a box */
+.box {
+    background-color: purple;
+    color: yellow;
+    padding: 10px;
+    border: 2px solid yellow;
+}
